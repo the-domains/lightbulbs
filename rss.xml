@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[LightBulbs]]></title>
         <description><![CDATA[LightBulbs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lightbulbs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 00:01:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 00:01:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lightbulbs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Swinging LEDs]]></title>
-            <description><![CDATA[<article><h1>Swinging LEDs</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/191ad0b0d50fd467c43cf3857ed1ae2536e744d6.jpg"></article>]]></description>
-            <link>undefinedswinging-leds/index.html</link>
+            <description><![CDATA[<article><h1>Swinging LEDs</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2d6370a278eca70a4f1ba1bbd3e07afc422f546.jpg"></article>]]></description>
+            <link>https://thegrid.ai/lightbulbs/swinging-leds/index.html</link>
             <guid isPermaLink="false">8d3dd7c3-7830-4874-9fcc-7c05c4ff7bd5</guid>
             <pubDate>Tue, 16 Feb 2016 23:55:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lonely Light]]></title>
+            <description><![CDATA[<article><h1>Lonely Light</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b638afd950e8f65a42617686f111a773bd20fc9.png"></article>]]></description>
+            <link>https://thegrid.ai/lightbulbs/lonely-light/index.html</link>
+            <guid isPermaLink="false">1f712980-25d1-4aa0-8cf9-dc29a55d6547</guid>
+            <pubDate>Tue, 16 Feb 2016 23:57:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
